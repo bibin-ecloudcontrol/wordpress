@@ -37,7 +37,7 @@ properties:
   MYSQL_USER: wordpress
   MYSQL_DATABASE: wordpress
   ADMIN_USER: wpadmin
-  ADMIN_EMAIL: appzdev@cloudbourne.co
+  ADMIN_EMAIL: bkoshy@ecloudcontrol.com
   SITE_TITLE: "Wordpress AppZ WorkshopDemo"
   MYSQL_PASSWORD:
      vault: MYSQL_PASSWORD_KEY
